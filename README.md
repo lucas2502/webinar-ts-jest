@@ -159,4 +159,5 @@ expect(char.name).toBe('Luke Skywalker');
 
 ---
 
-Feito com ❤️ para a comunidade TypeScript.
+Apresentação:
+https://docs.google.com/presentation/d/1J7tbp-o6gDHyi61OVbubCuW4zEFXWPm9LthKAo7eSxo/edit?usp=sharing
